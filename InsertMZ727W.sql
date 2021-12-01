@@ -47,8 +47,8 @@ begin
     INSERT INTO Dal VALUES(2, 'Addicted to You', TO_DSINTERVAL('0 00:02:28'), 1, 1);
     INSERT INTO Dal VALUES(3, 'Waiting for Love', TO_DSINTERVAL('0 00:03:50'), 1, 2);
     INSERT INTO Dal VALUES(4, 'SOS', TO_DSINTERVAL('0 00:02:37'), 1, 3);
-    INSERT INTO Dal VALUES(5, 'ワールドイズマイン', TO_DSINTERVAL('0 00:04:14'), 2, 3);
-    INSERT INTO Dal VALUES(6, 'こっち向いて Baby', TO_DSINTERVAL('0 00:03:30'), 2, 4);
+    INSERT INTO Dal VALUES(5, 'ワールドイズマイン', TO_DSINTERVAL('0 00:04:14'), 2, 4);
+    INSERT INTO Dal VALUES(6, 'こっち向いて Baby', TO_DSINTERVAL('0 00:03:30'), 2, 5);
     INSERT INTO Dal VALUES(7, 'ODDS&ENDS', TO_DSINTERVAL('0 00:05:37'), 2, null);
     INSERT INTO Dal VALUES(8, 'Yellow', TO_DSINTERVAL('0 00:03:20'), 3, 5);
     INSERT INTO Dal VALUES(9, 'Shadowmaker', TO_DSINTERVAL('0 00:07:36'), 4, 6);
